@@ -406,8 +406,8 @@ function($scope, $http, $interval, $cookies)
     // Data
     //
 
-    var backendBase = '/beats/1104';
-    var authentication = true;
+    var backendBase = '';
+    var authentication = false;
 
     $scope.showLoginDialog = false;
     $scope.formUsername = '';

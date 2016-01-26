@@ -1,7 +1,7 @@
-Beats by ACM
+Beats by WCS
 ============
 
-New Acoustics Media Player for ACM@UIUC.
+Fork of [https://github.com/acm-uiuc/beats](Beats by ACM) for WCS.
 
 Setup
 -----
