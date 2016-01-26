@@ -1,7 +1,7 @@
 Beats by WCS
 ============
 
-Fork of [https://github.com/acm-uiuc/beats](Beats by ACM) for WCS.
+Fork of [Beats by ACM](https://github.com/acm-uiuc/beats) for WCS.
 
 Setup
 -----
